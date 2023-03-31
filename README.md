@@ -1,8 +1,7 @@
 # Federico Formoso 
 
 --------------------------------
-(foto.jpg)
->adjunto foto con un gatito
+![Foto](foto.png)
 --------------------------------
 ## Sobre mi: 
 
