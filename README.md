@@ -1,13 +1,14 @@
 # Federico Formoso 
 
 --------------------------------
-
+(foto.jpg)
+>adjunto foto con un gatito
 --------------------------------
 ## Sobre mi: 
 
--Soy hincha de Velez.
+-Soy hincha de Velez. :blue_heart::white_heart::blue_heart:
 
--Estoy en segundo/tercero de la carrera.
+-Estoy en segundo/tercero de la carrera .
 
 -Mi gusto de helado favorito es el limon.
 
