@@ -1,7 +1,7 @@
 # Federico Formoso 
 
 --------------------------------
-![Foto](foto.png)
+![Foto](foto.jpg)
 --------------------------------
 ## Sobre mi: 
 
